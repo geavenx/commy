@@ -69,4 +69,4 @@ This tool sends your code diffs to an external AI service (OpenAI by default). P
 
 ## License
 
-MIT 
+GPL-3.0
